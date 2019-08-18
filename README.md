@@ -4,13 +4,13 @@
 
 我就是想做個網站
 
-##成品展示
+## 成品展示
 
 [網站網址(host by heroku)](https://pythondiary10730444.herokuapp.com/)
 
 ![](https://github.com/ying-an/pythondiary/blob/master/0818.png)
 
-##使用技術
+## 使用技術
 
 工具名稱 | 用途
 ---------|--------
